@@ -1,0 +1,9 @@
+payment_type,payment_provider
+Credit Card,Visa
+Credit Card,Mastercard
+Credit Card,American Express
+Debit Card,Visa
+Debit Card,Mastercard
+Digital Wallet,PayPal
+Digital Wallet,Apple Pay
+Digital Wallet,Google Pay

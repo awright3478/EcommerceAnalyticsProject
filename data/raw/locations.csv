@@ -1,0 +1,41 @@
+location_key,location_name,location_type,address_line1,city,state,postal_code,country,region,latitude,longitude,is_active,open_date
+LOC-0001,New York Store,Store,43321 Brittany Bypass,New York,AK,12781,USA,Northeast,-31.3098155,-55.091133,True,2022-11-09
+LOC-0002,New York Warehouse,Warehouse,386 Shane Harbors,New York,AS,01352,USA,Northeast,-47.141780,46.889378,True,2022-03-13
+LOC-0003,Boston Store,Store,51161 Abbott Rapids,Boston,KS,06196,USA,Northeast,33.325926,107.885264,True,2021-05-02
+LOC-0004,Boston Warehouse,Warehouse,84959 Janet Cape Apt. 413,Boston,VI,13739,USA,Northeast,12.039357,-30.764057,True,2022-08-25
+LOC-0005,Philadelphia Store,Store,55341 Amanda Gardens Apt. 764,Philadelphia,SC,90699,USA,Northeast,59.5050595,-62.095004,True,2023-07-29
+LOC-0006,Philadelphia Warehouse,Warehouse,05641 Robin Port,Philadelphia,FM,94599,USA,Northeast,-5.529299,-65.846995,True,2023-06-16
+LOC-0007,Newark Store,Store,724 John Points Suite 969,Newark,MO,47948,USA,Northeast,-31.1265325,-105.733712,True,2022-11-15
+LOC-0008,Newark Warehouse,Warehouse,12269 Paul Ranch,Newark,NH,69853,USA,Northeast,-22.5115375,117.010891,True,2024-04-11
+LOC-0009,Atlanta Store,Store,184 Rodriguez Mews,Atlanta,GA,59971,USA,Southeast,-89.1288425,-38.594084,True,2024-09-20
+LOC-0010,Atlanta Warehouse,Warehouse,148 Eric Track,Atlanta,GA,71198,USA,Southeast,52.3657295,-179.692966,True,2023-03-26
+LOC-0011,Miami Store,Store,15430 Natalie Common Apt. 718,Miami,WI,16984,USA,Southeast,-55.5351785,174.201025,True,2022-09-26
+LOC-0012,Miami Warehouse,Warehouse,8963 Jennifer Locks,Miami,TN,85681,USA,Southeast,10.239303,55.203188,True,2024-06-07
+LOC-0013,Charlotte Store,Store,33150 Brianna Avenue Apt. 031,Charlotte,MH,04618,USA,Southeast,-1.3012765,-141.958750,True,2022-11-22
+LOC-0014,Charlotte Warehouse,Warehouse,738 Jennifer Ports Suite 376,Charlotte,ID,12864,USA,Southeast,-63.9803335,173.788671,True,2022-07-23
+LOC-0015,Tampa Store,Store,7010 Chandler Union Apt. 333,Tampa,ND,59301,USA,Southeast,-52.370101,46.495980,True,2021-07-27
+LOC-0016,Tampa Warehouse,Warehouse,17810 Tanya Terrace Apt. 267,Tampa,NJ,28517,USA,Southeast,17.653432,-148.520358,True,2021-06-29
+LOC-0017,Chicago Store,Store,4746 Moore Hill,Chicago,IL,08166,USA,Midwest,65.472524,111.088834,True,2021-01-29
+LOC-0018,Chicago Warehouse,Warehouse,09788 Brian Pass Apt. 219,Chicago,CA,89002,USA,Midwest,-26.862935,36.775349,True,2021-04-25
+LOC-0019,Detroit Store,Store,909 Robert Prairie,Detroit,OK,69023,USA,Midwest,-5.0751165,-40.002484,True,2021-08-26
+LOC-0020,Detroit Warehouse,Warehouse,46247 Hickman Cliffs Apt. 799,Detroit,CT,10103,USA,Midwest,54.3201365,-65.563651,True,2022-11-10
+LOC-0021,Minneapolis Store,Store,1354 Samuel Plains,Minneapolis,VT,40152,USA,Midwest,74.1959985,171.100860,True,2022-12-13
+LOC-0022,Minneapolis Warehouse,Warehouse,124 Pamela Summit Apt. 449,Minneapolis,IL,94559,USA,Midwest,2.0412265,-70.694527,True,2023-08-02
+LOC-0023,Cleveland Store,Store,740 Cynthia Village Suite 005,Cleveland,WI,17647,USA,Midwest,81.023819,-39.363837,True,2021-06-25
+LOC-0024,Cleveland Warehouse,Warehouse,680 Charles Spurs Apt. 805,Cleveland,OR,72921,USA,Midwest,-50.246377,50.739986,True,2021-05-06
+LOC-0025,Houston Store,Store,0533 Michael Points Suite 923,Houston,VI,21800,USA,Southwest,-42.472867,41.348877,True,2020-12-07
+LOC-0026,Houston Warehouse,Warehouse,3421 Brennan Walks Suite 337,Houston,MI,40502,USA,Southwest,-28.9053005,-60.318830,True,2020-12-05
+LOC-0027,Dallas Store,Store,5414 May Locks,Dallas,TX,70783,USA,Southwest,-1.1076345,-165.182074,True,2021-04-18
+LOC-0028,Dallas Warehouse,Warehouse,94019 Reed Turnpike Suite 698,Dallas,DE,50989,USA,Southwest,64.7766745,-77.952235,True,2021-11-08
+LOC-0029,Phoenix Store,Store,88356 Stacy Isle Suite 148,Phoenix,ME,87911,USA,Southwest,19.627137,-4.881888,True,2022-06-11
+LOC-0030,Phoenix Warehouse,Warehouse,236 Byrd Extensions Suite 680,Phoenix,ME,38107,USA,Southwest,-33.579516,50.794441,True,2023-12-23
+LOC-0031,San Antonio Store,Store,7738 Leon Underpass Apt. 148,San Antonio,TN,83461,USA,Southwest,76.2315565,-0.047173,True,2021-03-17
+LOC-0032,San Antonio Warehouse,Warehouse,433 Andrew Gardens,San Antonio,NJ,80621,USA,Southwest,-70.450321,64.499692,True,2022-06-29
+LOC-0033,Los Angeles Store,Store,676 Dylan Spurs,Los Angeles,AL,98931,USA,West,-61.388191,48.248626,True,2021-09-16
+LOC-0034,Los Angeles Warehouse,Warehouse,83172 Contreras Points Suite 798,Los Angeles,NE,72311,USA,West,29.699022,-94.552751,True,2023-10-23
+LOC-0035,San Francisco Store,Store,4348 Sims Harbor Suite 143,San Francisco,KY,44521,USA,West,-4.178618,109.992016,True,2021-02-26
+LOC-0036,San Francisco Warehouse,Warehouse,62316 Rivera Mountain,San Francisco,MT,08662,USA,West,-34.4783165,45.562835,True,2022-05-24
+LOC-0037,Seattle Store,Store,670 Evans Loaf,Seattle,PR,55422,USA,West,54.4774825,113.202548,True,2024-01-13
+LOC-0038,Seattle Warehouse,Warehouse,3467 Paul Skyway,Seattle,TX,53495,USA,West,-45.696143,70.928175,True,2024-07-06
+LOC-0039,Portland Store,Store,9901 Taylor Mountain,Portland,HI,07091,USA,West,-20.164822,23.529838,True,2022-02-22
+LOC-0040,Portland Warehouse,Warehouse,5646 Conley Mountains Apt. 805,Portland,IN,85716,USA,West,-71.5803965,169.908116,True,2020-12-29

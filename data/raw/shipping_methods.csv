@@ -1,0 +1,7 @@
+shipping_type,carrier,estimated_days
+Standard,USPS,7
+Standard,UPS,5
+Express,FedEx,2
+Express,UPS,2
+Overnight,FedEx,1
+Overnight,UPS,1
